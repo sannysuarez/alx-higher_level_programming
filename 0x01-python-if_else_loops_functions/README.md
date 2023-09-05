@@ -5,7 +5,7 @@ This program will assign a random signed number to the variable **number** each 
 
 * You can find the source code [here](https://github.com/alx-tools/0x01.py/blob/master/0-positive_or_negative_py)
 * The variable <span style="background-color: yellow;">number</span> will store a different value every time you will run this program
-* You don’t have to understand what import, random. randint do. Please do not touch this code
+* You don’t have to understand what **import**, **random**. **randint** do. Please do not touch this code
 * The output of the program should be:
 - The number, followed by
 - if the number is greater than 0: **is positive**
