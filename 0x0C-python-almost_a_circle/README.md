@@ -22,4 +22,4 @@ Test case for rectangle.py.
 Test case for square.py.
 
 ## Resources
-- Args and Kwargs in Python[https://yasoob.me/2013/08/04/args-and-kwargs-in-python-explained/]
+- (Args and Kwargs in Python)[https://yasoob.me/2013/08/04/args-and-kwargs-in-python-explained/]
