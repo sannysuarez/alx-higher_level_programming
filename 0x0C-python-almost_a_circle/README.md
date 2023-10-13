@@ -23,3 +23,5 @@ Test case for square.py.
 
 ## Resources
 - [Args and Kwargs in Python](https://yasoob.me/2013/08/04/args-and-kwargs-in-python-explained/)
+- [unittest module](https://docs.python.org/3.4/library/unittest.html#module-unittest)
+- [unittest module](https://docs.python.org/3.4/library/unittest.html#module-unittest)
